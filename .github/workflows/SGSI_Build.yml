@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://mirrors.lolinet.com/firmware/gsi/Flyme/Flyme-AB-9-20190702-ErfanGSI.img.7z'
-  ZIP_NAME: 'update.7z'
+  ROM_URL: 'https://airportal-cn-south.oss-cn-shenzhen.aliyuncs.com/436443/fSPL0wadlg/1/Flyme-AB-9-20190702-ErfanGSI.zip?security-token=CAIS9QJ1q6Ft5B2yfSjIr5bDc83y2ohO2pLSVnfSjjMfRvle2omSqjz2IHFPfHJgAeAatf0%2Bn2hU6fwTlqBaSoV9QlbYZM8oPU3OPK3mMeT7oMWQweEuW%2FTHcDHh1neZsebWZ%2BLmNoO%2FHt6md1HDkAJq3LL%2Bbk%2FMdle5MJqP%2B9YFCdMMRVucbCFaI91UKwB%2Bs61%2FMmDKZ9mgLjnggGfbEDBE2GxGhHh49L60z%2BCF9xPalyea8OIOoJnrKZXWL6siNZxkAdCux740JOiT2S9K8x9Q6K5yyadCvCzAo82dRAUKvUnaaKiutr8ODRdQaqQgFrVf1pz1nuYqgevOjY%2F66g4%2FRIMyCX6FAtn7no2dSLrvbI9kV86iZyyRiorfZ8Su6l95OylLDm4QJYp9cE0XIAc3VzTXJpWg%2FF33eQq5Q8CHqvpnisIunw24oYHTdgPXH%2BrDgDxrM5s9fl4uMAUNwWvif6kJfgpBaVp7AKyPSoF%2BfO7pR3NPS9q4GoABBRrbQHK8MwVIVmG798zlVcKVhzxKZAOWwhvzWUsGgTI%2F1avrSE3vFXtE6QRMgsPN9y2tbS%2FuHTxLWnb36CpDPkDHAzgh5fgcun2Sijrx5O9UsOgTZd5FL0pSNhpHMUjrgTynSm3E2Dxr7DEa28ya%2B6yVct2OdBAInMlPlTORCLw%3D&OSSAccessKeyId=STS.NUv8wF7WomP9TQcj3JJvr5L9H&Expires=1633777156&Signature=wISasAuJe88gEiuyvpehdjOyByg%3D'
+  ZIP_NAME: 'update.zip'
   OS_TYPE: 'Flyme'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
