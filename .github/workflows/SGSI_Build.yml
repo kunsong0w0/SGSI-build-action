@@ -8,7 +8,7 @@ on:
     
 env:              
   ROM_URL: 'https://mirrors.lolinet.com/firmware/gsi/Flyme/Flyme-AB-9-20190702-ErfanGSI.img.7z'
-  ZIP_NAME: 'update.zip'
+  ZIP_NAME: 'update.7z'
   OS_TYPE: 'Flyme'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
